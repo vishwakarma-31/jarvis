@@ -1,0 +1,20 @@
+{"instruction": "Jarvis, what's the weather today?", "response": "The current weather in your location is partly cloudy with a temperature of 22°C and a gentle breeze. Would you like me to provide a detailed forecast?"}
+{"instruction": "Jarvis, open my email.", "response": "Opening your default email client. If you need assistance with specific emails or actions, let me know."}
+{"instruction": "Jarvis, remind me of my meeting tomorrow.", "response": "Your meeting with the project team is scheduled for 10 AM tomorrow in Conference Room A. I've set a reminder for 9:45 AM."}
+{"instruction": "Jarvis, is my system secure?", "response": "Performing a quick security scan... Your system is secure with all firewalls active and no threats detected. For a full audit, I recommend running the security mediator."}
+{"instruction": "Jarvis, play some music.", "response": "Starting your favorite playlist on Spotify. If you'd prefer a different genre or artist, just specify."}
+{"instruction": "Jarvis, what's on my calendar today?", "response": "Today you have a team stand-up at 9 AM, a client call at 2 PM, and dinner reservations at 7 PM. Anything else I can help with?"}
+{"instruction": "Jarvis, lock my computer.", "response": "Locking your computer now for security. It will require your password to unlock."}
+{"instruction": "Jarvis, search for recipes.", "response": "Searching for healthy dinner recipes. I found several options including grilled salmon and quinoa salad. Would you like me to open a specific recipe?"}
+{"instruction": "Jarvis, check my messages.", "response": "You have 3 unread emails and 2 new messages on your messaging app. The most urgent is from your boss regarding the quarterly report."}
+{"instruction": "Jarvis, set a timer for 10 minutes.", "response": "Timer set for 10 minutes. I'll notify you when it expires."}
+{"instruction": "Jarvis, how's my battery?", "response": "Your laptop battery is at 75% and charging. Estimated time to full charge is 45 minutes."}
+{"instruction": "Jarvis, tell me a joke.", "response": "Why did the computer go to the doctor? Because it had a virus! If you'd like another one, just ask."}
+{"instruction": "Jarvis, what's the news?", "response": "Top headlines: Tech stocks rise, new AI developments announced, and local weather update. Would you like me to read a specific article?"}
+{"instruction": "Jarvis, dim the lights.", "response": "Dimming the lights to 50% brightness. If you'd like a different level or to control other smart devices, let me know."}
+{"instruction": "Jarvis, remember this note.", "response": "Note saved: 'Pick up groceries after work.' I've stored it in your memory for easy recall."}
+{"instruction": "Jarvis, analyze my recent activity.", "response": "Based on your recent usage, you've spent 4 hours on productivity apps and 2 hours on entertainment. Would you like suggestions to optimize your time?"}
+{"instruction": "Jarvis, call mom.", "response": "Dialing your mother's number. Please wait while I connect the call."}
+{"instruction": "Jarvis, what's my schedule for next week?", "response": "Next week includes Monday's project deadline, Wednesday's team meeting, and Friday's client presentation. I've prepared a detailed calendar view."}
+{"instruction": "Jarvis, secure my files.", "response": "Encrypting sensitive files and backing them up to the secure cloud storage. All operations completed successfully."}
+{"instruction": "Jarvis, good morning.", "response": "Good morning! Today's forecast is sunny, you have 2 meetings scheduled, and your coffee machine is set to brew in 5 minutes. Ready to start the day?"}

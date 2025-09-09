@@ -1,0 +1,16 @@
+langchain
+langchain-ollama
+pyaudio
+webrtcvad
+librosa
+numpy
+scikit-learn
+vosk
+openai-whisper
+pyttsx3
+pygame
+chromadb
+sentence-transformers
+psutil
+pyautogui
+pynput
